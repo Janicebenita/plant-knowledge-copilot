@@ -1,0 +1,5 @@
+SYNTHETIC DEMO RECORD — NOT VERIFIED INDUSTRIAL GUIDANCE
+
+Asset: Compressor C-12 (fictional)
+The simulated 2,000-hour service includes checking the inlet filter, inspecting coupling alignment, and recording discharge temperature. A fictional alert is set at 112 degrees Celsius. These values must not be used on real equipment.
+

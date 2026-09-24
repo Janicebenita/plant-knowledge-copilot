@@ -1,0 +1,21 @@
+[
+  {
+    "id": "pump-vibration",
+    "question": "What vibration was recorded after maintenance on Pump P-101?",
+    "expected_sources": ["SYNTHETIC_pump_alpha_maintenance.md"],
+    "reference_facts": ["2.1 mm/s"]
+  },
+  {
+    "id": "compressor-temperature",
+    "question": "What is the fictional discharge temperature alert for C-12?",
+    "expected_sources": ["SYNTHETIC_compressor_c12_record.txt"],
+    "reference_facts": ["112 degrees Celsius"]
+  },
+  {
+    "id": "unsupported-bearing",
+    "question": "Which grease brand is approved for conveyor CV-99?",
+    "expected_sources": [],
+    "reference_facts": []
+  }
+]
+

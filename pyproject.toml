@@ -1,0 +1,13 @@
+[project]
+name = "plant-knowledge-copilot"
+version = "1.0.0"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q --basetemp=.pytest_tmp"
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
