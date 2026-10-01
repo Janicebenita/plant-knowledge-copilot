@@ -1,0 +1,15 @@
+spec_version: "0.1.0"
+name: plant-knowledge-copilot
+version: 1.0.0
+description: Retrieves evidence from indexed industrial documents and generates source-cited answers while declining unsupported questions and preserving human authority.
+author: Janice Benita F
+runtime:
+  max_turns: 20
+  timeout: 120
+tags:
+  - industrial-knowledge
+  - retrieval-augmented-generation
+  - evidence-grounding
+  - source-citations
+  - safety
+  - human-review
